@@ -1,0 +1,18 @@
+.App {
+ /* background: linear-gradient(45deg,black,#0d6efd,#020221); */
+ background:black;
+ padding: 1% 0%;
+ min-height: 100vh;
+}
+.baseofbase{
+min-width: 400px !important;
+max-width: 550px !important;
+box-shadow: #000000 0px 27px 1000px 1px;
+padding-bottom:35px
+}
+
+.numberpad{
+    border-bottom-left-radius:30px;
+    border-bottom-right-radius:30px;
+}
+/* style={{ minWidth: "450px", maxWidth: "600px",background:"transparent" }} */
